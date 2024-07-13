@@ -1,6 +1,6 @@
 spring:
   application:
-    name: user-default
+    name: user-prod
 
 eureka:
   instance:
